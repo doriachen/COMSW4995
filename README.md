@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # COMSW4995
 # Ideas
 - Idea 1: interactive map of small POC-owned businesses
