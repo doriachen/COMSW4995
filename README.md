@@ -1,4 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://travis-ci.org/doriachen/shop-poc.png?branch=master)](https://travis-ci.org/doriachen/shop-poc)
 # Shop POC
 Shop POC repo: https://github.com/KathyLau/shop-poc
 # Ideas
