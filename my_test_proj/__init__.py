@@ -1,1 +1,1 @@
-from .foo import inc
+from .map import inc
