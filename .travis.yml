@@ -1,0 +1,16 @@
+dist: xenial
+language: python
+python:
+  - 3.6
+  - 3.7
+cache: pypi
+
+install:
+  - echo "no dependencies"
+
+script:
+  - python -m pytest -vvv my_test_proj/
+
+branches:
+  only:
+  - master
