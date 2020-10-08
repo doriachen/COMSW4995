@@ -8,6 +8,7 @@ cache: pypi
 
 install:
   - pip install -r requirements.txt
+  #if I have to import a package like pandas or numpy, do I do it here or in a new requirements.txt file? 
 
 script:
   - python -m pytest -vvv my_tests/
